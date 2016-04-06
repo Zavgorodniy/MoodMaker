@@ -2,7 +2,8 @@
     <string name="app_name">Mood Maker</string>
 
     <string name="about">About</string>
-    <string name="tv_initial_text">Hi! this is the app of making your mood for the day.</string>
+    <string name="tv_initial_text_first">This app would set your mood for the whole day.</string>
+    <string name="tv_initial_text_second">It will help you to choose any mood you wish on your own.</string>
     <string name="bt_start">Get started!</string>
 
     <string name="version">Version: 0.1beta</string>

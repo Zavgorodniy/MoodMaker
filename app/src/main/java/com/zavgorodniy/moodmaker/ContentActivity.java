@@ -80,7 +80,6 @@ public class ContentActivity extends AppCompatActivity {
      * parsing resouces by the criteria from xml file
      */
     private void initItems() {
-        LinearLayout layout = (LinearLayout)findViewById(R.id.content);
         items = new ArrayList<>();
         //age and gender filter
         int id = 0;
@@ -113,19 +112,19 @@ public class ContentActivity extends AppCompatActivity {
         switch (mood) {
             case 0:
                 moodString = HAPPY_STATE;
-                layout.setBackgroundResource(R.drawable.happy);
+                setBackground(R.drawable.happy);
                 break;
             case 1:
                 moodString = SAD_STATE;
-                layout.setBackgroundResource(R.drawable.sad);
+                setBackground(R.drawable.sad);
                 break;
             case 2:
                 moodString = DRIVE_STATE;
-                layout.setBackgroundResource(R.drawable.drive);
+                setBackground(R.drawable.drive);
                 break;
             case 3:
                 moodString = APPEASEMENT_STATE;
-                layout.setBackgroundResource(R.drawable.appeasement);
+                setBackground(R.drawable.appeasement);
                 break;
         }
         try {
@@ -142,6 +141,16 @@ public class ContentActivity extends AppCompatActivity {
         }
         catch (Exception e) {
             e.printStackTrace();
+        }
+    }
+
+    private void setBackground(int id) {
+        LinearLayout layout = (LinearLayout)findViewById(R.id.content);
+        final int sdk = android.os.Build.VERSION.SDK_INT;
+        if(sdk < android.os.Build.VERSION_CODES.JELLY_BEAN) {
+            layout.setBackgroundDrawable(getResources().getDrawable(id) );
+        } else {
+            layout.setBackground(getResources().getDrawable(id));
         }
     }
 }
