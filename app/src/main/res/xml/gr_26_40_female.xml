@@ -1,0 +1,65 @@
+<content>
+    <happy
+        title="Movie"
+        image="sex"
+        name="Sex and the City (2008)"
+        description=" A New York writer on sex and love is finally getting married to her Mr. Big. But her three best girlfriends must console her after one of them inadvertently leads Mr. Big to jilt her." />
+    <happy
+        title="Book"
+        image="diary"
+        name="Bridget Jones's Diary by Helen Fielding"
+        description="Meet Bridget Jones—a 30-something Singleton who is certain she would have all the answers if she could: a. lose 7 pounds; b. stop smoking; c. develop Inner Poise" />
+    <happy
+        title="Song"
+        image="music"
+        name="Be Your Men"
+        description="by White Lies" />
+
+    <sad
+        title="Movie"
+        image="gattaca"
+        name="Gattaca (1997)"
+        description="A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel. " />
+    <sad
+        title="Book"
+        image="april"
+        name="The April Witch by Ray Bradbury"
+        description="Creative Education's short story collections are ideal introductions to some of the world's best-known authors. the short, timeless classics of Jack London, Rudyard Kipling, Ray Bradbury, and others are celebrated in these handsome volumes." />
+    <sad
+        title="Song"
+        image="music"
+        name="A fool to believe"
+        description="by Nicole Kidman" />
+
+    <drive
+        title="Movie"
+        image="prada"
+        name="The Devil Wears Prada (2006)"
+        description="A smart but sensible new graduate lands a job as an assistant to Miranda Priestly, the demanding editor-in-chief of a high fashion magazine." />
+    <drive
+        title="Book"
+        image="cholera"
+        name="Love in the Time of Cholera by Gabriel García Márquez"
+        description="A rich, commodious novel whose narrative power is matched only by its generosity of vision. - The New York Times" />
+    <drive
+        title="Song"
+        image="music"
+        name="Hurricane"
+        description="by MS MR" />
+
+    <appeasement
+        title="Movie"
+        image="dancing"
+        name="Dirty Dancing (2010)"
+        description=" Spending the summer at a Catskills resort with her family, Frances Baby Houseman falls in love with the camp's dance instructor, Johnny Castle." />
+    <appeasement
+        title="Book"
+        image="love"
+        name="Pride and Prejudice by Jane Austen"
+        description="It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife." />
+    <appeasement
+        title="Song"
+        image="music"
+        name="Pieces"
+        description="by Red" />
+</content>

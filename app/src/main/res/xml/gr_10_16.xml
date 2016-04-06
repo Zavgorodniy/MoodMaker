@@ -1,0 +1,66 @@
+<content>
+    <happy
+        title="Movie"
+        image="panda"
+        name="Kung Fu Panda 3 (2016)"
+        description="Continuing his legendary adventures of awesomeness, Po must face two hugely epic, but different threats: one supernatural and the other a little closer to his home. " />
+    <happy
+        title="Book"
+        image="potter"
+        name="'Harry Potter and the Philosopher's Stone' by J.K. Rowling"
+        description="Harry Potter has never even heard of Hogwarts when the letters start dropping on the doormat at number four, Privet Drive. Addressed in green ink on yellowish parchment with a purple seal, they are swiftly confiscated by his grisly aunt and uncle." />
+    <happy
+        title="Song"
+        image="music"
+        name="Let it snow"
+        description="by Frank Sinatra " />
+
+    <sad
+        title="Movie"
+        image="hachi"
+        name="Hachi: A Dog's Tale (2009)"
+        description="A college professor's bond with the abandoned dog he takes into his home." />
+    <sad
+        title="Book"
+        image="sails"
+        name="'Scarlet Sails' by Alexander Grin"
+        description="This is a story about dreams coming true, no matter how silly
+             or futile or far-reached they may seem. " />
+    <sad
+        title="Song"
+        image="music"
+        name="Wrecking ball"
+        description="by Miley Cyrus" />
+
+    <drive
+        title="Movie"
+        image="transformers"
+        name="Transformers: Age of Extinction (2014)"
+        description="Autobots must escape sight from a bounty hunter who has taken control of the human serendipity: Unexpectedly, Optimus Prime and his remaining gang turn to a mechanic, his daughter, and her back street racing boyfriend for help." />
+    <drive
+        title="Book"
+        image="island"
+        name="Treasure Island by Robert Louis Stevenson"
+        description="The most popular pirate story ever written in English, featuring one of literature’s most beloved “bad guys,” Treasure Island has been happily devoured by several generations of boys—and girls—and grownups." />
+    <drive
+        title="Song"
+        image="music"
+        name="In my head"
+        description="by Loreen" />
+
+    <appeasement
+        title="Movie"
+        image="dragon"
+        name="How to Train Your Dragon (2010)"
+        description="A hapless young Viking who aspires to hunt dragons, becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed. " />
+    <appeasement
+        title="Book"
+        image="lord"
+        name=" The Fellowship of the Ring by J.R.R. Tolkien "
+        description="Frodo Baggins knew the Ringwraiths were searching for him—and the Ring of Power he bore that would enable Sauron to destroy all that was good in Middle-earth." />
+    <appeasement
+        title="Song"
+        image="music"
+        name="Don't Worry Be Happy"
+        description="by Bobby McFerrin" />
+</content>

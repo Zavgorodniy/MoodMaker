@@ -1,0 +1,65 @@
+<content>
+    <happy
+        title="Movie"
+        image="domato"
+        name="Il bisbetico domato (1980)"
+        description="A grouchy farmer, known around his small Italian town as being wonderful to his employees, but driving everyone else away, is in for a surprise when a beautiful girl from the city, ends up" />
+    <happy
+        title="Book"
+        image="bovary"
+        name="Madame Bovary by Gustave Flaubert"
+        description="When Emma Rouault marries Charles Bovary she imagines she will pass into the life of luxury and passion that she reads about in sentimental novels and women's magazines." />
+    <happy
+        title="Song"
+        image="music"
+        name="Vogue"
+        description="by Madonna" />
+
+    <sad
+        title="Movie"
+        image="november"
+        name="Sweet November (2001)"
+        description="The story centers around a man and a woman, whose fates are intertwined and will change forever. Nelson is an avid advertiser living in San Francisco." />
+    <sad
+        title="Book"
+        image="wind"
+        name="Gone with the Wind by Margaret Mitchell"
+        description="Margaret Mitchell's epic novel of love and war won the Pulitzer Prize and one of the most popular and celebrated movies of all time. " />
+    <sad
+        title="Song"
+        image="music"
+        name="Conside me"
+        description="by Kylie Minogue" />
+
+    <drive
+        title="Movie"
+        image="million"
+        name="How to Steal a Million (1966)"
+        description="Romantic comedy about a woman who must steal a statue from a Paris museum to help conceal her father's art forgeries, and the man who helps her. " />
+    <drive
+        title="Book"
+        image="mountain"
+        name="Brokeback Mountain by Annie Proulx"
+        description="Annie Proulx has written some of the most original and brilliant short stories in contemporary literature, and for many readers and reviewers, Brokeback Mountain is her masterpiece. " />
+    <drive
+        title="Song"
+        image="music"
+        name="Hallelujah, I love her so"
+        description="by Ray Charles" />
+
+    <appeasement
+        title="Movie"
+        image="moscow"
+        name="Moskva slezam ne verit (1980)"
+        description="This is a life story of three girlfriends from youth to autumn ages. Their dreams and wishes, love, disillusions. Different careers. And big late love. " />
+    <appeasement
+        title="Book"
+        image="emma"
+        name="Emma by Jane Austen"
+        description="Beautiful, clever, rich - and single - Emma Woodhouse is perfectly content with her life and sees no need for either love or marriage. Nothing, however, delights her more than interfering in the romantic lives of others. But when she ignores the warnings of her good friend Mr." />
+    <appeasement
+        title="Song"
+        image="music"
+        name="Eyes"
+        description="by Rogue Wove" />
+</content>

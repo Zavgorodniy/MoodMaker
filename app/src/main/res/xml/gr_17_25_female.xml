@@ -1,0 +1,65 @@
+<content>
+    <happy
+        title="Movie"
+        image="amelie"
+        name="Amelie (2001)"
+        description="Amelie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love. " />
+    <happy
+        title="Book"
+        image="wizard"
+        name="Wizard's First Rule by Terry Goodkind"
+        description="In the aftermath of the brutal murder of his father, a mysterious woman, Kahlan Amnell, appears in Richard Cypher's forest sanctuary seeking help and more. His world, his very beliefs, are shattered when ancient debts come due with thundering violence." />
+    <happy
+        title="Song"
+        image="music"
+        name="Crystals"
+        description="by Of Monsters And Men" />
+
+    <sad
+        title="Movie"
+        image="eternal"
+        name="Eternal Sunshine of the Spotless Mind (2004)"
+        description="When their relationship turns sour, a couple undergoes a procedure to have each other erased from their memories. But it is only through the process of loss that they discover what they had to begin with." />
+    <sad
+        title="Book"
+        image="sparks"
+        name=" Spark of Life: A Novel of Resistance by Erich Maria Remarque"
+        description="509 is a political prisoner in a German concentration camp. For ten years, he has persevered in the most hellish conditions. Deathly weak, he still has his wits about him and he senses that the end of the war is near." />
+    <sad
+        title="Song"
+        image="music"
+        name="The Man I Love"
+        description="by Lana Del Rey" />
+
+    <drive
+        title="Movie"
+        image="step"
+        name="Step Up (2006)"
+        description="Tyler Gage receives the opportunity of a lifetime after vandalizing a performing arts school, gaining him the chance to earn a scholarship and dance with an up and coming dancer, Nora. " />
+    <drive
+        title="Book"
+        image="empire"
+        name=" L'Empire des anges by Bernard Werber"
+        description="Que pensent les anges de nous? Que peuvent-ils faire pour nous aider? Qu'attendent-ils de l'humanité en général? Lorsque Michael Pinson" />
+    <drive
+        title="Song"
+        image="music"
+        name="Suicide Blond"
+        description="by IN XS" />
+
+    <appeasement
+        title="Movie"
+        image="scent"
+        name="Scent of a Woman (1992)"
+        description="A prep school student needing money agrees to babysit a blind man, but the job is not at all what he anticipated. " />
+    <appeasement
+        title="Book"
+        image="jane"
+        name="Jane Eyre by Charlotte Brontë, Michael Mason"
+        description="Orphaned into the household of her Aunt Reed at Gateshead, subject to the cruel regime at Lowood charity school, Jane Eyre nonetheless emerges unbroken in spirit and integrity." />
+    <appeasement
+        title="Song"
+        image="music"
+        name="Fly"
+        description="by Ludovico Einaudi" />
+</content>

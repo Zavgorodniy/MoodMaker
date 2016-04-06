@@ -1,0 +1,65 @@
+<content>
+    <happy
+        title="Movie"
+        image="vegas"
+        name="Last Vegas (2013)"
+        description="Three friends take a break from their day-to-day lives to throw a bachelor party in Las Vegas for their last remaining single pal. " />
+    <happy
+        title="Book"
+        image="twelve"
+        name="The Twelve Chairs by Ilya Ilf, Yevgeny Petrov"
+        description="Ostap Bender is an unemployed con artist living by his wits in postrevolutionary Soviet Russia. He joins forces with Ippolit Matveyevich Vorobyaninov, a former nobleman who has returned to his hometown to find a cache of missing jewels which were hidden in some chairs that have been appropriated by the Soviet authorities." />
+    <happy
+        title="Song"
+        image="music"
+        name="Yellow Submarine"
+        description="by Beatles" />
+
+    <sad
+        title="Movie"
+        image="list"
+        name="Schindler's List (1993)"
+        description="In Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis. " />
+    <sad
+        title="Book"
+        image="leviathan"
+        name=" Leviathan by Thomas Hobbes"
+        description="Thomas Hobbes took a new look at the ways in which society should function, and he ended up formulating the concept of political science. His crowning achievement, Leviathan, remains among the greatest works in the history of ideas." />
+    <sad
+        title="Song"
+        image="music"
+        name="Practical Arrangement"
+        description="by Sting" />
+
+    <drive
+        title="Movie"
+        image="game"
+        name="The Game (1997)"
+        description="Wealthy San Francisco financier Nicholas Van Orton gets a strange birthday present from wayward brother Conrad: a live-action game that consumes his life. " />
+    <drive
+        title="Book"
+        image="mindswap"
+        name="Mindswap by Robert Sheckley"
+        description="In the future, interstellar travel to alien worlds will be too expensive for most ordinary people. It certainly is for Marvin, a college student who wants to take a really good vacation." />
+    <drive
+        title="Song"
+        image="music"
+        name="Feeling Good"
+        description="by Nina Simone" />
+
+    <appeasement
+        title="Movie"
+        image="chairs"
+        name="The Twelve Chairs (1970)"
+        description="In 1920s Soviet Russia, a fallen aristocrat, a priest and a con artist search for a treasure of jewels hidden inside one of twelve dining chairs, lost during the revolution. " />
+    <appeasement
+        title="Book"
+        image="prince"
+        name="The Prince by Niccolò Machiavelli"
+        description="THE PRINCE was written by Niccolo' Machiavelli in the 1500s. It has continued to be a best seller in many languages. Presently, it is translated into modern English, with illustrations by Benjamin Martinez and an Introduction by Adolph Cso." />
+    <appeasement
+        title="Song"
+        image="music"
+        name="Let It Be"
+        description="by Beatles" />
+</content>

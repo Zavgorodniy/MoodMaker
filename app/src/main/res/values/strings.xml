@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Mood Maker</string>
+
+    <string name="about">About</string>
+    <string name="tv_initial_text">Hi! this is the app of making your mood for the day.</string>
+    <string name="bt_start">Get started!</string>
+
+    <string name="version">Version: 0.1beta</string>
+    <string name="next_version">In next versions will add databases, some API services, more criteria and refined styles</string>
+    <string name="author">Author: Zavgorodnii Nick</string>
+    <string name="thanks">Thanks to Udacity and DataArt for this opportunity to improve my skill.</string>
+
+    <string name="tv_criteria_title">For making your mood, please fill these criteria:</string>
+    <string name="tv_gender_title">Select your gender:</string>
+    <string name="rb_male">male</string>
+    <string name="rb_female">female</string>
+    <string name="tv_age_title">Select your age:</string>
+    <string name="tv_mood_title">Select mood for your day:</string>
+    <string name="bt_confirm_criteria">Make my mood!</string>
+    <string name="tv_content_title">We recommend:</string>
+
+    <string-array name="st_ages">
+        <item>10 &#8211; 16</item>
+        <item>17 &#8211; 25</item>
+        <item>26 &#8211; 40</item>
+        <item>41+</item>
+    </string-array>
+
+    <string-array name="st_moods">
+        <item>Want to fun!</item>
+        <item>Be melancholy</item>
+        <item>Drive, more drive!!!</item>
+        <item>Appeasement</item>
+    </string-array>
+
+</resources>

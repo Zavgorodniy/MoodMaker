@@ -1,0 +1,65 @@
+<content>
+    <happy
+        title="Movie"
+        image="ted"
+        name="Ted (2012)"
+        description="John Bennett, a man whose childhood wish of bringing his teddy bear to life came true, now must decide between keeping the relationship with the bear or his girlfriend, Lori." />
+    <happy
+        title="Book"
+        image="fortress"
+        name="Digital Fortress by Dan Brown"
+        description="Techno-thriller novel written by American author Dan Brown and published in 1998 by St. Martin's Press. The book explores the theme of government surveillance of electronically stored information on the private lives of citizens, and the possible civil liberties and ethical implications using such technology." />
+    <happy
+        title="Song"
+        image="music"
+        name="I feel free"
+        description="by Cream" />
+
+    <sad
+        title="Movie"
+        image="mile"
+        name="The Green Mile (1999)"
+        description="The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift." />
+    <sad
+        title="Book"
+        image="essentialism"
+        name="Essentialism: The Disciplined Pursuit of Less by Greg McKeown"
+        description="Have you ever found yourself stretched too thin? Do you simultaneously feel overworked and underutilized? Are you often busy but not productive? Do you feel like your time is constantly being hijacked by other people’s agendas?" />
+    <sad
+        title="Song"
+        image="music"
+        name="Butterflies and Hurricanes"
+        description="by Muse" />
+
+    <drive
+        title="Movie"
+        image="furious"
+        name="Furious Seven (2015)"
+        description="Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother." />
+    <drive
+        title="Book"
+        image="king112263"
+        name=" 11/22/63 by Stephen King"
+        description="Life can turn on a dime—or stumble into the extraordinary, as it does for Jake Epping, a high school English teacher in Lisbon Falls, Maine. While grading essays by his GED students, Jake reads a gruesome, enthralling piece penned by janitor Harry Dunning: fifty years ago, Harry somehow survived his father’s sledgehammer slaughter of his entire family. Jake is blown away." />
+    <drive
+        title="Song"
+        image="music"
+        name="Getting Even"
+        description="by White Lies" />
+
+    <appeasement
+        title="Movie"
+        image="troy"
+        name="Troy (2004)"
+        description="An adaptation of Homer's great epic, the film follows the assault on Troy by the united Greek forces and chronicles the fates of the men involved." />
+    <appeasement
+        title="Book"
+        image="b"
+        name="On the Road by Jack Kerouac"
+        description="On the Road chronicles Jack Kerouac's years traveling the North American continent with his friend Neal Cassady, a sideburned hero of the snowy West. As Sal Paradise and Dean Moriarty, the two roam the country in a quest for self-knowledge and experience." />
+    <appeasement
+        title="Song"
+        image="music"
+        name="Beautiful life"
+        description="by Armin van Buuren" />
+</content>
